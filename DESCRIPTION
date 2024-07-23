@@ -11,7 +11,7 @@ Authors@R: c(
            comment = c(ORCID = "0000-0003-3925-190X"))
     )
 License: MIT + file LICENSE
-URL: https://github.com/rich-iannone/i18n
+URL: https://rich-iannone.github.io/i18n/, https://github.com/rich-iannone/i18n
 BugReports: https://github.com/rich-iannone/i18n/issues
 Encoding: UTF-8
 LazyData: true
