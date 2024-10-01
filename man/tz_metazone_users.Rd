@@ -5,7 +5,7 @@
 \alias{tz_metazone_users}
 \title{A table that links canonical tz names with their metazone}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 293 rows and 4 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 291 rows and 4 columns.
 }
 \usage{
 tz_metazone_users
@@ -18,7 +18,7 @@ the long ID, but there is often a short ID available as well). The
 \code{metazone_long_id} can be used to get a localized metazone name by use of
 the \link{tz_metazone_names} table.
 
-There are 293 rows and the following 4 columns:
+There are 291 rows and the following 4 columns:
 \itemize{
 \item \code{canonical_tz_name} (\code{character})
 \item \code{territory} (\code{character})
