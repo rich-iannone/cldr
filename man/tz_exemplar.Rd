@@ -5,14 +5,14 @@
 \alias{tz_exemplar}
 \title{A table with localized names for all time zone exemplar cities}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 574 rows and 443 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 586 rows and 443 columns.
 }
 \usage{
 tz_exemplar
 }
 \description{
 The \code{tz_exemplar} table contains localized names for all exemplar cities used
-in time zone names. There are 574 rows and a column for
+in time zone names. There are 586 rows and a column for
 each exemplar city name (comprising 442 columns; the
 \code{locale} column is first). To have syntactical column names, all slashes in
 exemplar city names are instead represented with period characters (e.g.,

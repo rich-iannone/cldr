@@ -5,14 +5,14 @@
 \alias{day_periods}
 \title{A table with rule sets for naming periods of a day}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 519 rows and 5 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 524 rows and 5 columns.
 }
 \usage{
 day_periods
 }
 \description{
 The \code{day_periods} table contains rules for naming periods of time throughout
-a day. There are 519 rows that comprise a day period name
+a day. There are 524 rows that comprise a day period name
 and rule for a locale. There may be only two rows associated with a locale
 but many more if a locale has many names for periods of a day. The following
 columns are included:

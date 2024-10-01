@@ -5,15 +5,15 @@
 \alias{dates_generic}
 \title{A table with localized generic date attributes and descriptors}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 574 rows and 38 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 586 rows and 38 columns.
 }
 \usage{
 dates_generic
 }
 \description{
 The \code{dates_generic} table contains localized data for constructing dates and
-times across 574 locales. There are
-574 rows and the following 38
+times across 586 locales. There are
+586 rows and the following 38
 columns:
 \itemize{
 \item \code{locale} (\code{character})

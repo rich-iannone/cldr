@@ -5,7 +5,7 @@
 \alias{num_system_digits}
 \title{Vectors of digits from various numbering systems}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 53 rows and 2 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 55 rows and 2 columns.
 }
 \usage{
 num_system_digits
@@ -13,7 +13,7 @@ num_system_digits
 \description{
 The \code{num_system_digits} table contains vectors of digits for different
 numbering systems. Each vector contains 10 elements (comprising the numbers
-\code{0} to \code{9}) and there are are 53 rows in total. The
+\code{0} to \code{9}) and there are are 55 rows in total. The
 following columns are included:
 \itemize{
 \item \code{script} (\code{character})

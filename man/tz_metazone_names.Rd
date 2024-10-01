@@ -5,7 +5,7 @@
 \alias{tz_metazone_names}
 \title{A table with localized time zone names for all metazones}
 \format{
-An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 465 rows and 160 columns.
+An object of class \code{tbl_df} (inherits from \code{tbl}, \code{data.frame}) with 471 rows and 160 columns.
 }
 \usage{
 tz_metazone_names
@@ -16,7 +16,7 @@ metazones (e.g., \code{America/Eastern}). There can be a variety of time zone
 names, comprising long and short forms (e.g., \verb{Eastern Time} and \code{ET}) and
 this is further segmented by generic, standard, and daylight forms (an
 example, using short forms, is \code{ET}, \code{EST}, and \code{EDT}). There are
-465 rows and a column for
+471 rows and a column for
 each metazone (comprising 159 columns; the
 \code{locale} column is first).
 }

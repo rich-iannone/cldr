@@ -26,7 +26,7 @@ test_that("Tabular datasets have the expected dimensions", {
   
   # `default_locales`
   expect_equal(ncol(default_locales), 2)
-  expect_equal(nrow(default_locales), 228)
+  expect_equal(nrow(default_locales), 239)
   
   # `locale_names`
   expect_equal(ncol(locale_names), 5)
