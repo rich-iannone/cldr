@@ -8,10 +8,11 @@ Description: Up-to-date data from the 'Unicode CLDR Project' (where 'CLDR'
     key elements from the tabular datasets.
 Authors@R: c(
     person("Richard", "Iannone", , "riannone@me.com", c("aut", "cre"),
-           comment = c(ORCID = "0000-0003-3925-190X"))
+           comment = c(ORCID = "0000-0003-3925-190X")),
+    person("Olivier", "Roy", , , c("ctb"))
     )
 License: MIT + file LICENSE
-URL: https://github.com/rich-iannone/i18n
+URL: https://github.com/rich-iannone/i18n, https://rich-iannone.github.io/i18n/
 BugReports: https://github.com/rich-iannone/i18n/issues
 Encoding: UTF-8
 LazyData: true
