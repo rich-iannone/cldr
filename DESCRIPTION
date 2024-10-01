@@ -12,7 +12,7 @@ Authors@R: c(
     person("Olivier", "Roy", , , c("ctb"))
     )
 License: MIT + file LICENSE
-URL: https://github.com/rich-iannone/i18n, https://rich-iannone.github.io/i18n/
+URL: https://rich-iannone.github.io/i18n/, https://github.com/rich-iannone/i18n
 BugReports: https://github.com/rich-iannone/i18n/issues
 Encoding: UTF-8
 LazyData: true
