@@ -3,14 +3,15 @@
 <a href='https://rich-iannone.github.io/i18n/'><img src="man/figures/logo.svg" height="350px"/></a>
 
 <br />
+
 <!-- badges: start -->
 [![CRAN status](https://www.r-pkg.org/badges/version/i18n)](https://CRAN.R-project.org/package=i18n)
-<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/)
 [![R-CMD-check](https://github.com/rich-iannone/i18n/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/rich-iannone/i18n/actions/workflows/R-CMD-check.yaml)
 [![Lint](https://github.com/rich-iannone/i18n/actions/workflows/lint.yaml/badge.svg)](https://github.com/rich-iannone/i18n/actions/workflows/lint.yaml)
 [![Codecov test coverage](https://codecov.io/gh/rich-iannone/i18n/graph/badge.svg)](https://app.codecov.io/gh/rich-iannone/i18n)
 
-<a href="https://www.contributor-covenant.org/version/2/0/code_of_conduct/"><img src="https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg" alt="Contributor Covenant" /></a>
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.1%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html)
 <!-- badges: end -->
 <br />
 </div>
