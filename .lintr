@@ -1,0 +1,8 @@
+linters: linters_with_default(
+  object_usage_linter = NULL,
+  trailing_whitespace_linter = NULL,
+  cyclocomp_linter = NULL,
+  indentation_linter = NULL
+)
+encoding: "UTF-8"
+exclusions: list("data-raw", "tests", "man", "vignettes") # see ?lintr::exclude
